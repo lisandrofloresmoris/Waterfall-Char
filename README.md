@@ -23,7 +23,7 @@ This project analyzes the relationship between total marketing spend and monthly
 
 Here is an example of how the waterfall chart would look with the provided data:
 
-![Waterfall Chart](./images/Waterfall_Chart_Project.png)
+![Waterfall Chart](./Waterfall_Chart_Project.png)
 
 ## Conclusions
 - **Efficiency of Spend:** By analyzing the data, we can determine if the marketing spend led to a significant increase in sales.
